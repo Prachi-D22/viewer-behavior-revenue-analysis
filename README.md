@@ -50,6 +50,8 @@ The Power BI dashboard provides:
 * Revenue insights
 * Genre-based engagement
 
+<img width="1304" height="727" alt="Screenshot 2026-03-31 173812" src="https://github.com/user-attachments/assets/a20e866c-f7fe-4ac8-b27c-d5660b769758" />
+
 ---
 
 ## 📈 Key Insights
@@ -82,10 +84,9 @@ git clone https://github.com/your-username/your-repo-name
 ## 📂 Project Structure
 
 ```
-├── data/
-├── ml_model.ipynb
-├── dashboard.pbix
 ├── README.md
+├── dashboard.pbix
+├── ml_model.ipynb
 ```
 
 ---
