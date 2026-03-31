@@ -107,7 +107,3 @@ git clone https://github.com/your-username/your-repo-name
 * [https://numpy.org/](https://numpy.org/)
 
 ---
-
-## 🙏 Acknowledgment
-
-This project was developed as part of an academic internship/capstone to demonstrate practical implementation of data analytics and machine learning.
