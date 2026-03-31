@@ -105,5 +105,3 @@ git clone https://github.com/your-username/your-repo-name
 * [https://scikit-learn.org/](https://scikit-learn.org/)
 * [https://pandas.pydata.org/](https://pandas.pydata.org/)
 * [https://numpy.org/](https://numpy.org/)
-
----
