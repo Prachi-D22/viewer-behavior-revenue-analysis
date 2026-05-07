@@ -81,16 +81,6 @@ git clone https://github.com/your-username/your-repo-name
 
 ---
 
-## 📂 Project Structure
-
-```
-├── README.md
-├── dashboard.pbix
-├── ml_model.ipynb
-```
-
----
-
 ## 🔮 Future Scope
 
 * Real-time data processing
